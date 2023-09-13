@@ -1,0 +1,2 @@
+# aisu-repo
+personal projects
